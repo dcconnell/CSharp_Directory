@@ -1,0 +1,15 @@
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\bin\Debug\net10.0\SourceGeneratorDemo.App.exe
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\bin\Debug\net10.0\SourceGeneratorDemo.App.deps.json
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\bin\Debug\net10.0\SourceGeneratorDemo.App.runtimeconfig.json
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\bin\Debug\net10.0\SourceGeneratorDemo.App.dll
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\bin\Debug\net10.0\SourceGeneratorDemo.App.pdb
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.GeneratedMSBuildEditorConfig.editorconfig
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.AssemblyInfoInputs.cache
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.AssemblyInfo.cs
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.csproj.CoreCompileInputs.cache
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.sourcelink.json
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.dll
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\refint\SourceGeneratorDemo.App.dll
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.pdb
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\SourceGeneratorDemo.App.genruntimeconfig.cache
+c:\_repos\CSharp_Directory\Source_Generators\SourceGeneratorDemo\src\SourceGeneratorDemo.App\obj\Debug\net10.0\ref\SourceGeneratorDemo.App.dll
