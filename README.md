@@ -2,7 +2,7 @@
 Directory of different C# &amp; .NET concepts, based on what I've learned about them and their best use cases. If you enjoyed reading this please give it a star 🌟
 
 ---
-## Instructions on how to read
+## How to read:
 
 These markdown files are intended to be read through a markdown-specific editor/note taking application like [Obsidian](https://obsidian.md/download). They can be read easily on [Github](https://github.com/dcconnell/CSharp_Directory) as well, just letting you know how they're being written and intended to be viewed if there are any formatting anomalies.
 
@@ -12,10 +12,9 @@ Follow these steps to read the CSharp directory in Obsidian:
 3. Open  [Obsidian](https://obsidian.md/download) and select "Open folder as Vault"
 4. Open the cloned repository folder into  [Obsidian](https://obsidian.md/download)
 
-# Structure of Directory:
+# Directory Structure:
 
-## Section Title
-
+<p style="text-align: center">Section Title</p>
 ### Grouping Name
 - C# construct
 	- Brief Description for as a quick-reference
