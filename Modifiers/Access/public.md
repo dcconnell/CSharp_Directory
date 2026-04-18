@@ -86,7 +86,7 @@ Multiplier.MultiplyAmount(2);
 Adder.ReadAmount();
 ```
 ##### Solution
-Either expose the publicly accessible members using types like [[ConcurrentList]], [[ConcurrentDictionary]], [[ConcurrentQueue]], [[ConcurrentBag]], ect. or keep the members `private`. You can also set publicly accessible setters that have validation logic to ensure the [[Properties]]/[[Fields]] should change and to ensure it is [[Covariant]].
+Either expose the publicly accessible members using types like [[ConcurrentList]], [[ConcurrentDictionary]], [[ConcurrentQueue]], [[ConcurrentBag]], ect. or keep the members [[private]]. You can also set publicly accessible setters that have validation logic to ensure the [[Properties]]/[[Fields]] should change and to ensure it is [[Covariant]].
 
 ##### Problem
 - Implementing `public` members with business secrets or internal information stored in property/field strings.
@@ -110,7 +110,7 @@ public class EmailService
 ```
 
 ##### Solution
-Keep the transport mechanisms `private`, only expose members that are necessary to utilize the class from a high level. Prevents future breaks should `SmtpClient` change to `SendGrind` or some other implementation.
+Keep the transport mechanisms [[private]], only expose members that are necessary to utilize the class from a high level. Prevents future breaks should `SmtpClient` change to `SendGrind` or some other implementation.
 
 ##### Problem
 - Unintentional API Surface via a method or class that needs to remain secure and internal
@@ -123,10 +123,10 @@ public class UserService
 ```
 
 ##### Solution
-Once something is `public` in a library/package, removing or renaming it is a breaking change. Keep helpers `private` or `internal` unless they're intentionally part of your contract.
+Once something is `public` in a library/package, removing or renaming it is a breaking change. Keep helpers [[private]] or [[internal]] unless they're intentionally part of your contract.
 
 ##### Problem
-- [[Inheritance]] Abuse via several derived classes when a base depends upon a value being controlled directly.
+- [[Inheritance]] Abuse via several derived [[Classes]] when a base depends upon a value being controlled directly.
 ```csharp
 public class BaseService
 {
@@ -144,4 +144,4 @@ public class DerivedService : BaseService
 ```
 
 ##### Solution
-Use `protected` (derived class access only) or `private` with constructor injection forcing [[Encapsulation]].
+Use [[protected]] (derived class access only) or [[private]] with constructor injection forcing [[Encapsulation]].
