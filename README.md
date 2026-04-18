@@ -1,2 +1,13 @@
 # CSharp_Directory
-A single readme file directing different C# &amp; .NET concepts, based on what I've learned about them and their best use cases
+Directory of different C# &amp; .NET concepts, based on what I've learned about them and their best use cases
+
+### Modifiers
+- 
+#### Access
+- Public:
+- Internal
+- Private
+- Protected
+- Protected Internal
+- Private Protected
+- File
