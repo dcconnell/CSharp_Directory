@@ -169,3 +169,11 @@ Follow these steps to read the CSharp directory in Obsidian:
 	- `Custom_Types/Records.md` [[Records]]
 - Structs
 	- `Custom_Types/Structs.md` [[Structs]]
+
+---
+## Source Generators
+
+- Source Generators
+	- Source_Generators/Source_Generators.md [[Source_Generators]]
+
+---
