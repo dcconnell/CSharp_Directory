@@ -148,5 +148,4 @@ Use [[protected]] (derived class access only) or [[private]] with constructo
 
 ---
 ## References
-
 [^1]: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public

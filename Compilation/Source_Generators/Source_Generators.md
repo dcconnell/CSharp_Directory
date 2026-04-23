@@ -379,6 +379,5 @@ Seeing as how JSON is the predominate language between frontends and backends yo
 
 ---
 ## References
-
 [^1]: [Introducing C# Source Generators - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
 [2]:[How to use source generation in System.Text.Json - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/source-generation)
