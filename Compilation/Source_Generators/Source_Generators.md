@@ -382,4 +382,4 @@ Due to the level of annoyance [SG] are generally to produce, there's a level of 
 ---
 ## References
 [^1]: [Introducing C# Source Generators - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators/)
-[2]:[How to use source generation in System.Text.Json - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/source-generation)
+[2]: [How to use source generation in System.Text.Json - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/source-generation)
